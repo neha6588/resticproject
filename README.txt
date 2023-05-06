@@ -8,6 +8,7 @@
 	It is more secure as it can restore the saved data
 	It is verifiable because it can check the file without any lose
 	It is entirely free and available everywhere. 
+hello im restic
 2.PROJECT SUMMARY
 
 website	https://restic.com
